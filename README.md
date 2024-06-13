@@ -15,7 +15,6 @@ Example command usage:
 8) Exiting CMD PLUS: 𝐞𝐱𝐢𝐭
 9) Counts lines, words, and characters in a file: 𝐜𝐨𝐮𝐧𝐭 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞
 10) Searches for a text in a file and prints the matching lines: 𝐬𝐞𝐚𝐫𝐜𝐡 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 𝐲𝐨𝐮𝐫_𝐰𝐨𝐫𝐝
-11) Replaces a text in a file with another text: 𝐫𝐞𝐩𝐥𝐚𝐜𝐞 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 𝐰𝐨𝐫𝐝𝟏 𝐰𝐨𝐫𝐝𝟐
 12) Creates an empty file if it does not exist, or updates the timestamp if it does: 𝐭𝐨𝐮𝐜𝐡 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞\𝐍𝐀𝐌𝐄
 13) Displays the first few lines of a file (default is 10 lines): 𝐡𝐞𝐚𝐝 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 (𝘰𝘱𝘵𝘪𝘰𝘯𝘢𝘭) 𝘕𝘜𝘔𝘉𝘌𝘙 𝘖𝘍 𝘓𝘐𝘕𝘌𝘚
 14) Displays the last few lines of a file (default is 10 lines): 𝐭𝐚𝐢𝐥 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 (𝘰𝘱𝘵𝘪𝘰𝘯𝘢𝘭) 𝘕𝘜𝘔𝘉𝘌𝘙 𝘖𝘍 𝘓𝘐𝘕𝘌𝘚
@@ -24,11 +23,6 @@ Example command usage:
 18) Evaluates and prints the result of a basic arithmetic expression: 𝐜𝐚𝐥𝐜 <𝐄𝐗𝐏𝐑𝐄𝐒𝐒𝐈𝐎𝐍>
 
 Note: The program does not like the Cyrillic alphabet, so if you go to delete a file named in Russian, you will have to rename it.
-
-
-
-
-
 
 
 Note (OLD): I don't know why, but antivirus (Microsoft Defender) blocks the first release (CMDPlus v0.1) of this program and gives a trojan. Try to allow it and if necessary add the program to exceptions.
