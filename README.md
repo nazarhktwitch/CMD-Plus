@@ -21,6 +21,7 @@ Example command usage:
 15) Concatenates and displays the contents of the specified files: cat 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 (𝘰𝘱𝘵𝘪𝘰𝘯𝘢𝘭) 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞\𝟐 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞\𝟑 ...
 17) Displays the system uptime since the program started running: 𝐮𝐩𝐭𝐢𝐦𝐞
 18) Evaluates and prints the result of a basic arithmetic expression: 𝐜𝐚𝐥𝐜 <𝐄𝐗𝐏𝐑𝐄𝐒𝐒𝐈𝐎𝐍>
+19) Runs a file: 𝐫𝐮𝐧 "𝐩𝐚𝐭𝐡" (𝐏𝐚𝐭𝐡 𝐢𝐧 𝐪𝐮𝐨𝐭𝐞𝐬 𝐨𝐧𝐥𝐲)
 
 Note: The program does not like the Cyrillic alphabet, so if you go to delete a file named in Russian, you will have to rename it.
 
