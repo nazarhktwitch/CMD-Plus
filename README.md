@@ -11,3 +11,4 @@ Type any of the available commands followed by the required parameters, if any, 
 8) Exiting CMD PLUS: exit
 
 Note: I don't know why, but antivirus (Microsoft Defender) blocks the program and gives a trojan. Try to allow it and if necessary add the program to exceptions.
+Note 2:The program does not like the Cyrillic alphabet, so if you go to delete a file named in Russian, you will have to rename it.
