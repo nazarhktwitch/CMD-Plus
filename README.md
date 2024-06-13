@@ -16,4 +16,4 @@ Example command usage:
 
 Note: I don't know why, but antivirus (Microsoft Defender) blocks the program and gives a trojan. Try to allow it and if necessary add the program to exceptions.
 
-Note 2:The program does not like the Cyrillic alphabet, so if you go to delete a file named in Russian, you will have to rename it.
+Note 2: The program does not like the Cyrillic alphabet, so if you go to delete a file named in Russian, you will have to rename it.
