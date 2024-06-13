@@ -1,12 +1,16 @@
 # CMD-Plus
 CMD PLUS is designed to streamline your command line operations with intuitive commands and helpful features, making it an indispensable tool for both beginners and advanced users.
-Type any of the available commands followed by the required parameters, if any, and press Enter. Exampe command usage:
+
+Type any of the available commands followed by the required parameters, if any, and press Enter.
+
+Example command usage:
+
 1) Get Help: Type help to see the list of available commands and their descriptions.
-2) Listing Files: list
-3) Creating a Directory: mkdir new_folder
-4) Changing Directory: cd new_folder
-5) Copying a File: cp source.txt destination.txt
-6)Deleting a File: rm old_file.txt
+2) Listing Files: list (List of files in CURRENT DIRECTORY, to change directory use cd command)
+3) Creating a Directory: mkdir your\path\here\NAME OF DIRECTORY HERE
+4) Changing Directory: cd your\path\here
+5) Copying a File: cp your\path\from your\path\to
+6) Deleting a File: rm your\path\here
 7) Showing Current Directory: pwd
 8) Exiting CMD PLUS: exit
 
