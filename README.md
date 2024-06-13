@@ -21,7 +21,8 @@ Example command usage:
 14) Displays the last few lines of a file (default is 10 lines): 𝐭𝐚𝐢𝐥 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 (𝘰𝘱𝘵𝘪𝘰𝘯𝘢𝘭) 𝘕𝘜𝘔𝘉𝘌𝘙 𝘖𝘍 𝘓𝘐𝘕𝘌𝘚
 15) Concatenates and displays the contents of the specified files: cat 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 (𝘰𝘱𝘵𝘪𝘰𝘯𝘢𝘭) 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞\𝟐 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞\𝟑 ...
 16) Downloads a file from a specified URL to a specified destination: 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐡𝐭𝐭𝐩𝐬://𝐞𝐱𝐚𝐦𝐩𝐥𝐞.𝐜𝐨𝐦/𝐟𝐢𝐥𝐞.𝐳𝐢𝐩 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞
-17) Displays the system uptime since the script started running: 𝐮𝐩𝐭𝐢𝐦𝐞
+17) Displays the system uptime since the program started running: 𝐮𝐩𝐭𝐢𝐦𝐞
+18) Evaluates and prints the result of a basic arithmetic expression: 𝐜𝐚𝐥𝐜 <𝐄𝐗𝐏𝐑𝐄𝐒𝐒𝐈𝐎𝐍>
 
 Note: I don't know why, but antivirus (Microsoft Defender) blocks the program and gives a trojan. Try to allow it and if necessary add the program to exceptions.
 
