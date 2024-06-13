@@ -24,6 +24,12 @@ Example command usage:
 17) Displays the system uptime since the program started running: 𝐮𝐩𝐭𝐢𝐦𝐞
 18) Evaluates and prints the result of a basic arithmetic expression: 𝐜𝐚𝐥𝐜 <𝐄𝐗𝐏𝐑𝐄𝐒𝐒𝐈𝐎𝐍>
 
-Note: I don't know why, but antivirus (Microsoft Defender) blocks the program and gives a trojan. Try to allow it and if necessary add the program to exceptions.
+Note: The program does not like the Cyrillic alphabet, so if you go to delete a file named in Russian, you will have to rename it.
 
-Note 2: The program does not like the Cyrillic alphabet, so if you go to delete a file named in Russian, you will have to rename it.
+
+
+
+
+
+
+Note (OLD): I don't know why, but antivirus (Microsoft Defender) blocks the first release (CMDPlus v0.1) of this program and gives a trojan. Try to allow it and if necessary add the program to exceptions.
