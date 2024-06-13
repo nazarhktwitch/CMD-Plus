@@ -5,14 +5,23 @@ Type any of the available commands followed by the required parameters, if any, 
 
 Example command usage:
 
-1) Get Help: Type help to see the list of available commands and their descriptions.
-2) Listing Files: list (List of files in CURRENT DIRECTORY, to change directory use cd command)
-3) Creating a Directory: mkdir your\path\here\NAME OF DIRECTORY HERE
-4) Changing Directory: cd your\path\here
-5) Copying a File: cp your\path\from your\path\to
-6) Deleting a File: rm your\path\here
-7) Showing Current Directory: pwd
-8) Exiting CMD PLUS: exit
+1) Get Help: Type 𝐡𝐞𝐥𝐩 to see the list of available commands and their descriptions.
+2) Listing Files: 𝐥𝐢𝐬𝐭 (List of files in CURRENT DIRECTORY, to change directory use cd command)
+3) Creating a Directory: 𝐦𝐤𝐝𝐢𝐫 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞\𝐍𝐀𝐌𝐄 𝐎𝐅 𝐃𝐈𝐑𝐄𝐂𝐓𝐎𝐑𝐘 𝐇𝐄𝐑𝐄
+4) Changing Directory: 𝐜𝐝 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞
+5) Copying a File: 𝐜𝐩 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐭𝐨
+6) Deleting a File: 𝐫𝐦 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞
+7) Showing Current Directory: 𝐩𝐰𝐝
+8) Exiting CMD PLUS: 𝐞𝐱𝐢𝐭
+9) Counts lines, words, and characters in a file: 𝐜𝐨𝐮𝐧𝐭 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞
+10) Searches for a text in a file and prints the matching lines: 𝐬𝐞𝐚𝐫𝐜𝐡 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 𝐲𝐨𝐮𝐫_𝐰𝐨𝐫𝐝
+11) Replaces a text in a file with another text: 𝐫𝐞𝐩𝐥𝐚𝐜𝐞 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 𝐰𝐨𝐫𝐝𝟏 𝐰𝐨𝐫𝐝𝟐
+12) Creates an empty file if it does not exist, or updates the timestamp if it does: 𝐭𝐨𝐮𝐜𝐡 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞\𝐍𝐀𝐌𝐄
+13) Displays the first few lines of a file (default is 10 lines): 𝐡𝐞𝐚𝐝 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 (𝘰𝘱𝘵𝘪𝘰𝘯𝘢𝘭) 𝘕𝘜𝘔𝘉𝘌𝘙 𝘖𝘍 𝘓𝘐𝘕𝘌𝘚
+14) Displays the last few lines of a file (default is 10 lines): 𝐭𝐚𝐢𝐥 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 (𝘰𝘱𝘵𝘪𝘰𝘯𝘢𝘭) 𝘕𝘜𝘔𝘉𝘌𝘙 𝘖𝘍 𝘓𝘐𝘕𝘌𝘚
+15) Concatenates and displays the contents of the specified files: cat 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞 (𝘰𝘱𝘵𝘪𝘰𝘯𝘢𝘭) 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞\𝟐 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞\𝟑 ...
+16) Downloads a file from a specified URL to a specified destination: 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐡𝐭𝐭𝐩𝐬://𝐞𝐱𝐚𝐦𝐩𝐥𝐞.𝐜𝐨𝐦/𝐟𝐢𝐥𝐞.𝐳𝐢𝐩 𝐲𝐨𝐮𝐫\𝐩𝐚𝐭𝐡\𝐡𝐞𝐫𝐞
+17) Displays the system uptime since the script started running: 𝐮𝐩𝐭𝐢𝐦𝐞
 
 Note: I don't know why, but antivirus (Microsoft Defender) blocks the program and gives a trojan. Try to allow it and if necessary add the program to exceptions.
 
